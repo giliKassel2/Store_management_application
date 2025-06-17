@@ -1,0 +1,24 @@
+13/06/2025 13:40:25	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+13/06/2025 13:40:46	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 13:40:46	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 13:40:46	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 13:40:54	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 13:40:54	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 13:41:14	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 13:41:14	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 13:41:14	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 13:41:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 13:41:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 13:41:29	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 14:15:00	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 14:15:00	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 14:15:00	Dal.productImplementation.ReadAll:	 readAll with filter Product
+13/06/2025 14:15:02	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+13/06/2025 14:19:08	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+13/06/2025 14:21:11	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+13/06/2025 14:23:14	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+13/06/2025 14:24:09	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+13/06/2025 14:24:57	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+13/06/2025 14:33:43	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+13/06/2025 14:34:24	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+13/06/2025 14:40:21	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
